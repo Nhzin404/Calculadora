@@ -1,2 +1,2 @@
-# Calculadora.de.Gorjetas
+# Calculadora de Gorjetas
  Primeiro code
